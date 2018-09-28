@@ -1,5 +1,10 @@
 If on Windows add .exe to path
     Must have java stored in the path 
+        https://javatutorial.net/set-java-home-windows-10
+    Works in cmd prompt. Powershell does not seem to like stdlib.jar (but i dont care enough about windows to troubleshoot)
+    Didn't work with script or by manually inputing on powershell.
+    Just type cmd in powershell then runStd name.java (this works).
+     
 If on Linux/Mac store in bin "usr/local/bin" or "/usr/bin/
 * Must have stdlib.jar inside folder with java file to be compiled.
 run using:
