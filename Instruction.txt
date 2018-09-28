@@ -1,0 +1,8 @@
+If on Windows add .exe to path
+    Must have java stored in the path 
+If on Linux/Mac store in bin "usr/local/bin" or "/usr/bin/
+* Must have stdlib.jar inside folder with java file to be compiled.
+run using:
+    runStd fileName.java
+The .java will be compiled using .:stdlib.jar or (windows) .;stdlib.jar.
+After compiling the script will run the compiled version in terminal.
