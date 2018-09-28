@@ -6,3 +6,4 @@ run using:
     runStd fileName.java
 The .java will be compiled using .:stdlib.jar or (windows) .;stdlib.jar.
 After compiling the script will run the compiled version in terminal.
+* on mac or linux may need to run "sudo chmod +x runStd" in order to run.
