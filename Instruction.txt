@@ -1,5 +1,6 @@
 If on Windows add .exe to path
     Must have java stored in the path 
+    Would not work with my powershell unless I ran "cmd" to get to cmd prompt and then used it. 
 If on Linux/Mac store in bin "usr/local/bin" or "/usr/bin/
 * Must have stdlib.jar inside folder with java file to be compiled.
 run using:
