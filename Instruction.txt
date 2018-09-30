@@ -1,6 +1,7 @@
 If on Windows add .exe to path
     Must have java stored in the path 
     If using powershell make sure that there is no ".\" before java or argument files. (powershell will auto add this when using "tab" for autocompletion, and this breaks the file path for java"
+    **Piping only works with this program using cmd prompt, so if in powershell type cmd prior to using.
 If on Linux/Mac store in bin "usr/local/bin" or "/usr/bin/
 * Must have stdlib.jar inside folder with java file to be compiled.
 run using:
